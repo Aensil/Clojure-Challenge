@@ -1,5 +1,5 @@
 # Clojure-Challenge
 
-Some of the test base on the clojure for the brave book.
+Some of the tests are based on the Clojure for the brave book.
 
-Some solutions to a clojure challenge, using multiple libraries, deps tools for Core Generating Functions, clojure specs, and testing tools, from reading a .JSON file to using native clojure data structures as maps, hasp-maps, vector, .edn files and integrating a Test Driven Development 
+Some solutions to a Clojure challenge, use multiple libraries, deps tools for Core Generating Functions, Clojure specs, and testing tools, from reading a .JSON file to using native Clojure data structures as maps, hasp-maps, vector, .edn files and integrating a Test Driven Development
